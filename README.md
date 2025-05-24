@@ -87,8 +87,6 @@ Use the Biome VS Code extension for real-time feedback and auto-formatting:
 
 This section provides practical guidance on how to use Biome for formatting, linting, and maintaining code quality in your projects. You'll find explanations and examples for the most important configuration options, making it easy to apply Biome's features to your workflow.
 
-Biome is a modern tool for formatting, linting, and organizing code in JavaScript, TypeScript, JSON, and more. It helps keep codebases clean, consistent, and easy to read by automatically enforcing style and quality rules.
-
 ### JavaScript Formatter Options
 
 quoteStyle
