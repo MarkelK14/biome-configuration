@@ -238,7 +238,7 @@ indentStyle
       ```js
       // Four spaces for each indent
       function greet() {
-      ····console.log("Hello");
+          console.log("Hello");
       }
       ```
   - `"tab"`: Use tab characters for indentation.
