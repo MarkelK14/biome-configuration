@@ -8,8 +8,8 @@ Biome is a modern tool for formatting, linting, and organizing code in JavaScrip
   - [Why Use Biome?](#why-use-biome)
   - [Installation](#installation)
   - [Configuration](#configuration)
-  - [Biome Formatter & Linter: General Guide](#biome-formatter--linter-general-guide)
-    - [JavaScript Formatter Options (with Examples)](#javascript-formatter-options-with-examples)
+  - [Biome Usage Overview](#biome-usage-overview)
+    - [JavaScript Formatter Options](#javascript-formatter-options)
     - [JSON Formatter Options](#json-formatter-options)
   - [More information](#more-information)
 
@@ -83,11 +83,13 @@ Use the Biome VS Code extension for real-time feedback and auto-formatting:
 > [!TIP]
 > The VS Code extension makes it easy to keep your codebase consistent and error-free, with instant feedback as you work.
 
-## Biome Formatter & Linter: General Guide
+## Biome Usage Overview
+
+This section provides practical guidance on how to use Biome for formatting, linting, and maintaining code quality in your projects. You'll find explanations and examples for the most important configuration options, making it easy to apply Biome's features to your workflow.
 
 Biome is a modern tool for formatting, linting, and organizing code in JavaScript, TypeScript, JSON, and more. It helps keep codebases clean, consistent, and easy to read by automatically enforcing style and quality rules.
 
-### JavaScript Formatter Options (with Examples)
+### JavaScript Formatter Options
 
 quoteStyle
 - **Explanation:** Choose the type of quotes for strings.
