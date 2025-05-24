@@ -280,11 +280,6 @@ trailingCommas
       ```json
       { "a": 1, "b": 2 }
       ```
-  - `"all"`: Add trailing commas everywhere possible (if supported by your environment).
-    - Example:
-      ```json
-      { "a": 1, "b": 2, }
-      ```
 
 indentStyle
 - **Explanation:** Sets the type of indentation for JSON files.
@@ -293,7 +288,7 @@ indentStyle
     - Example:
       ```json
       {
-      ····"a": 1
+          "a": 1
       }
       ```
   - `"tab"`: Use tab characters for indentation.
